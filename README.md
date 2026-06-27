@@ -76,6 +76,7 @@ On your attacker machine:
 - In another separate terminal, open Wireshark and start capturing packets
 - Observe the traffic; if necessary manually request an image from one of your victims and watch the redirection happen in real time
 
+If you would like to read a short PoC demonstrating one use case of this tool, see the [Writeup](Writeup.pdf).
 
 ### Disclaimers, Limitations, & Mitigation:
 
